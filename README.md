@@ -1,2 +1,2 @@
-# GC-AtvGitAction-Lab02
+# GC-AtvGitActions-Lab02
 Exercicios do Laboratorio 02
